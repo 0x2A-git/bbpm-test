@@ -1,0 +1,6 @@
+PKGBUILD
+arch
+dist/
+.bbpm_pkgbuild/
+.bbpm_bbpm-test-1.0.0.tar.gz
+bbpm_build/
